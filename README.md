@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3498-reverse-degree-of-a-string) |
@@ -91,9 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/0234-palindrome-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
