@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/1927-sum-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dharnishkris5/Leetcode-probelms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3870-count-commas-in-range) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dharnishkris5/Leetcode-probelms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dharnishkris5/Leetcode-probelms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dharnishkris5/Leetcode-probelms/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sorting
 |  |
 | ------- |
@@ -112,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/0022-generate-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dharnishkris5/Leetcode-probelms/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
