@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/1927-sum-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/dharnishkris5/Leetcode-probelms/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/dharnishkris5/Leetcode-probelms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/dharnishkris5/Leetcode-probelms/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
