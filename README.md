@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3875-construct-uniform-parity-array-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/dharnishkris5/Leetcode-probelms/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/1927-sum-game) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/dharnishkris5/Leetcode-probelms/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/0022-generate-parentheses) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/dharnishkris5/Leetcode-probelms/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
